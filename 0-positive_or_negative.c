@@ -5,7 +5,7 @@
 /**
  * main - main block
  * Description: Get a random number and print the number
- * it also tells if it is positive, negative, or zero
+ * it is also made to tell if it is positive, negative, or zero
  * Return: 0
  */
 
